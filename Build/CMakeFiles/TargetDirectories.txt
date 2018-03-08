@@ -1,7 +1,7 @@
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/install.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/list_install_components.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/rebuild_cache.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/A.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/install/strip.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/install/local.dir
-/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/edit_cache.dir
+/home/b/Git/Alfa/Build/CMakeFiles/install.dir
+/home/b/Git/Alfa/Build/CMakeFiles/list_install_components.dir
+/home/b/Git/Alfa/Build/CMakeFiles/rebuild_cache.dir
+/home/b/Git/Alfa/Build/CMakeFiles/A.dir
+/home/b/Git/Alfa/Build/CMakeFiles/install/strip.dir
+/home/b/Git/Alfa/Build/CMakeFiles/install/local.dir
+/home/b/Git/Alfa/Build/CMakeFiles/edit_cache.dir

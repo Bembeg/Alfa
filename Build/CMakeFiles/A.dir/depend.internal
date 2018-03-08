@@ -4,7 +4,7 @@
 CMakeFiles/A.dir/A.cc.o
  ../include/AActionInitialization.hh
  ../include/ADetectorConstruction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/A.cc
+ /home/b/Git/Alfa/A.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Plane3D.h
@@ -647,7 +647,7 @@ CMakeFiles/A.dir/src/AActionInitialization.cc.o
  ../include/APrimaryGeneratorAction.hh
  ../include/ARunAction.hh
  ../include/ASteppingAction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AActionInitialization.cc
+ /home/b/Git/Alfa/src/AActionInitialization.cc
  /usr/local/include/Geant4/G4ExceptionSeverity.hh
  /usr/local/include/Geant4/G4String.hh
  /usr/local/include/Geant4/G4String.icc
@@ -664,7 +664,7 @@ CMakeFiles/A.dir/src/AActionInitialization.cc.o
  /usr/local/include/Geant4/tls.hh
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.o
  ../include/ADetectorConstruction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ADetectorConstruction.cc
+ /home/b/Git/Alfa/src/ADetectorConstruction.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Point3D.h
@@ -789,7 +789,7 @@ CMakeFiles/A.dir/src/AEventAction.cc.o
  ../include/AAnalysis.hh
  ../include/AEventAction.hh
  ../include/ARunAction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AEventAction.cc
+ /home/b/Git/Alfa/src/AEventAction.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Point3D.h
@@ -1205,7 +1205,7 @@ CMakeFiles/A.dir/src/AEventAction.cc.o
  /usr/local/include/Geant4/windefs.hh
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o
  ../include/APrimaryGeneratorAction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/APrimaryGeneratorAction.cc
+ /home/b/Git/Alfa/src/APrimaryGeneratorAction.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Point3D.h
@@ -1502,7 +1502,7 @@ CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o
 CMakeFiles/A.dir/src/ARunAction.cc.o
  ../include/AAnalysis.hh
  ../include/ARunAction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ARunAction.cc
+ /home/b/Git/Alfa/src/ARunAction.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Point3D.h
@@ -1920,7 +1920,7 @@ CMakeFiles/A.dir/src/ASteppingAction.cc.o
  ../include/ADetectorConstruction.hh
  ../include/AEventAction.hh
  ../include/ASteppingAction.hh
- /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ASteppingAction.cc
+ /home/b/Git/Alfa/src/ASteppingAction.cc
  /usr/local/include/CLHEP/Geometry/BasicVector3D.h
  /usr/local/include/CLHEP/Geometry/Normal3D.h
  /usr/local/include/CLHEP/Geometry/Point3D.h

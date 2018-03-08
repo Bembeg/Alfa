@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/b/Documents/Dropbox/Programování/Geant4/Alfa2
+CMAKE_SOURCE_DIR = /home/b/Git/Alfa
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build
+CMAKE_BINARY_DIR = /home/b/Git/Alfa/Build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/A.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/A.dir/flags.make
 
 CMakeFiles/A.dir/A.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/A.cc.o: ../A.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/A.dir/A.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/A.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/A.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/A.dir/A.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/A.cc.o -c /home/b/Git/Alfa/A.cc
 
 CMakeFiles/A.dir/A.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/A.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/A.cc > CMakeFiles/A.dir/A.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/A.cc > CMakeFiles/A.dir/A.cc.i
 
 CMakeFiles/A.dir/A.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/A.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/A.cc -o CMakeFiles/A.dir/A.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/A.cc -o CMakeFiles/A.dir/A.cc.s
 
 CMakeFiles/A.dir/A.cc.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/A.dir/A.cc.o.provides.build: CMakeFiles/A.dir/A.cc.o
 
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.o: ../src/ADetectorConstruction.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/A.dir/src/ADetectorConstruction.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ADetectorConstruction.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ADetectorConstruction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/A.dir/src/ADetectorConstruction.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ADetectorConstruction.cc.o -c /home/b/Git/Alfa/src/ADetectorConstruction.cc
 
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/ADetectorConstruction.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ADetectorConstruction.cc > CMakeFiles/A.dir/src/ADetectorConstruction.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/ADetectorConstruction.cc > CMakeFiles/A.dir/src/ADetectorConstruction.cc.i
 
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/ADetectorConstruction.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ADetectorConstruction.cc -o CMakeFiles/A.dir/src/ADetectorConstruction.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/ADetectorConstruction.cc -o CMakeFiles/A.dir/src/ADetectorConstruction.cc.s
 
 CMakeFiles/A.dir/src/ADetectorConstruction.cc.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/A.dir/src/ADetectorConstruction.cc.o.provides.build: CMakeFiles/A.dir
 
 CMakeFiles/A.dir/src/ASteppingAction.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/ASteppingAction.cc.o: ../src/ASteppingAction.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/A.dir/src/ASteppingAction.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ASteppingAction.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ASteppingAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/A.dir/src/ASteppingAction.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ASteppingAction.cc.o -c /home/b/Git/Alfa/src/ASteppingAction.cc
 
 CMakeFiles/A.dir/src/ASteppingAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/ASteppingAction.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ASteppingAction.cc > CMakeFiles/A.dir/src/ASteppingAction.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/ASteppingAction.cc > CMakeFiles/A.dir/src/ASteppingAction.cc.i
 
 CMakeFiles/A.dir/src/ASteppingAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/ASteppingAction.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ASteppingAction.cc -o CMakeFiles/A.dir/src/ASteppingAction.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/ASteppingAction.cc -o CMakeFiles/A.dir/src/ASteppingAction.cc.s
 
 CMakeFiles/A.dir/src/ASteppingAction.cc.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/A.dir/src/ASteppingAction.cc.o.provides.build: CMakeFiles/A.dir/src/A
 
 CMakeFiles/A.dir/src/ARunAction.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/ARunAction.cc.o: ../src/ARunAction.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/A.dir/src/ARunAction.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ARunAction.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ARunAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/A.dir/src/ARunAction.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/ARunAction.cc.o -c /home/b/Git/Alfa/src/ARunAction.cc
 
 CMakeFiles/A.dir/src/ARunAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/ARunAction.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ARunAction.cc > CMakeFiles/A.dir/src/ARunAction.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/ARunAction.cc > CMakeFiles/A.dir/src/ARunAction.cc.i
 
 CMakeFiles/A.dir/src/ARunAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/ARunAction.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/ARunAction.cc -o CMakeFiles/A.dir/src/ARunAction.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/ARunAction.cc -o CMakeFiles/A.dir/src/ARunAction.cc.s
 
 CMakeFiles/A.dir/src/ARunAction.cc.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/A.dir/src/ARunAction.cc.o.provides.build: CMakeFiles/A.dir/src/ARunAc
 
 CMakeFiles/A.dir/src/AActionInitialization.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/AActionInitialization.cc.o: ../src/AActionInitialization.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/A.dir/src/AActionInitialization.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/AActionInitialization.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AActionInitialization.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/A.dir/src/AActionInitialization.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/AActionInitialization.cc.o -c /home/b/Git/Alfa/src/AActionInitialization.cc
 
 CMakeFiles/A.dir/src/AActionInitialization.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/AActionInitialization.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AActionInitialization.cc > CMakeFiles/A.dir/src/AActionInitialization.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/AActionInitialization.cc > CMakeFiles/A.dir/src/AActionInitialization.cc.i
 
 CMakeFiles/A.dir/src/AActionInitialization.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/AActionInitialization.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AActionInitialization.cc -o CMakeFiles/A.dir/src/AActionInitialization.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/AActionInitialization.cc -o CMakeFiles/A.dir/src/AActionInitialization.cc.s
 
 CMakeFiles/A.dir/src/AActionInitialization.cc.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/A.dir/src/AActionInitialization.cc.o.provides.build: CMakeFiles/A.dir
 
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o: ../src/APrimaryGeneratorAction.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/APrimaryGeneratorAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o -c /home/b/Git/Alfa/src/APrimaryGeneratorAction.cc
 
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/APrimaryGeneratorAction.cc > CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/APrimaryGeneratorAction.cc > CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.i
 
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/APrimaryGeneratorAction.cc -o CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/APrimaryGeneratorAction.cc -o CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.s
 
 CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/A.dir/src/APrimaryGeneratorAction.cc.o.provides.build: CMakeFiles/A.d
 
 CMakeFiles/A.dir/src/AEventAction.cc.o: CMakeFiles/A.dir/flags.make
 CMakeFiles/A.dir/src/AEventAction.cc.o: ../src/AEventAction.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/A.dir/src/AEventAction.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/AEventAction.cc.o -c /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AEventAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/A.dir/src/AEventAction.cc.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/A.dir/src/AEventAction.cc.o -c /home/b/Git/Alfa/src/AEventAction.cc
 
 CMakeFiles/A.dir/src/AEventAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A.dir/src/AEventAction.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AEventAction.cc > CMakeFiles/A.dir/src/AEventAction.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/b/Git/Alfa/src/AEventAction.cc > CMakeFiles/A.dir/src/AEventAction.cc.i
 
 CMakeFiles/A.dir/src/AEventAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A.dir/src/AEventAction.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/src/AEventAction.cc -o CMakeFiles/A.dir/src/AEventAction.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/b/Git/Alfa/src/AEventAction.cc -o CMakeFiles/A.dir/src/AEventAction.cc.s
 
 CMakeFiles/A.dir/src/AEventAction.cc.o.requires:
 
@@ -294,7 +294,7 @@ A : /usr/local/lib/libG4intercoms.so
 A : /usr/local/lib/libG4global.so
 A : /usr/local/lib/libCLHEP.so
 A : CMakeFiles/A.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/b/Git/Alfa/Build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable A"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/A.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -317,6 +317,6 @@ CMakeFiles/A.dir/clean:
 .PHONY : CMakeFiles/A.dir/clean
 
 CMakeFiles/A.dir/depend:
-	cd /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/b/Documents/Dropbox/Programování/Geant4/Alfa2 /home/b/Documents/Dropbox/Programování/Geant4/Alfa2 /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build /home/b/Documents/Dropbox/Programování/Geant4/Alfa2/Build/CMakeFiles/A.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/b/Git/Alfa/Build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/b/Git/Alfa /home/b/Git/Alfa /home/b/Git/Alfa/Build /home/b/Git/Alfa/Build /home/b/Git/Alfa/Build/CMakeFiles/A.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/A.dir/depend
 
